@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/distribute/GFS.md",
+                "file": "paper/distribute/Map Reduce.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/distribute/GFS.md",
+                "file": "paper/distribute/Map Reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/distribute/GFS.md",
+                "file": "paper/distribute/Map Reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/distribute/GFS.md"
+                "file": "paper/distribute/Map Reduce.md"
               }
             }
           },
@@ -142,13 +142,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "20452434c6eab485",
   "lastOpenFiles": [
-    "template/paper.md",
     "paper/distribute/GFS.md",
     "paper/distribute/Map Reduce.md",
+    "template/paper.md",
     "Excalidraw/Drawing 2022-12-06 15.46.21.excalidraw.md",
     "Excalidraw/Drawing 2022-12-06 15.45.54.excalidraw.md",
     "paper/distribute/Drawing 2022-12-06 15.45.19.excalidraw.md",
