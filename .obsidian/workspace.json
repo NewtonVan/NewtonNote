@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc351c39a52db93",
+        "id": "47560077fcfe5d6e",
         "type": "tabs",
         "children": [
           {
-            "id": "332d3b92da24e739",
+            "id": "4167ccd79f56a628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper/distribute/GFS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/distribute/GFS.md",
+                "file": "book/凤凰架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/distribute/GFS.md",
+                "file": "book/凤凰架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/distribute/GFS.md"
+                "file": "book/凤凰架构.md"
               }
             }
           },
@@ -143,19 +138,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "332d3b92da24e739",
+  "active": "c8c7b21f5bbb3dce",
   "lastOpenFiles": [
     "paper/distribute/Map Reduce.md",
-    "paper/distribute/Mercury Hybrid Centralized and Distributed Scheduling in Large Shared Clusters atc15.md",
+    "book/凤凰架构.md",
+    "未命名.md",
     "paper/distribute/GFS.md",
+    "paper/distribute/Mercury Hybrid Centralized and Distributed Scheduling in Large Shared Clusters atc15.md",
     "template/paper.md",
     "README.md",
     "Excalidraw/Drawing 2022-12-06 15.46.21.excalidraw.md",
     "Excalidraw/Drawing 2022-12-06 15.45.54.excalidraw.md",
-    "paper/distribute/Drawing 2022-12-06 15.45.19.excalidraw.md",
-    "template/test.md",
-    "Excalidraw/Drawing 2022-12-06 15.27.25.excalidraw.md"
+    "paper/distribute/Drawing 2022-12-06 15.45.19.excalidraw.md"
   ]
 }
