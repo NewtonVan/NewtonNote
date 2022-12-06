@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "translucency": true,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Cascadia Mono"
 }
