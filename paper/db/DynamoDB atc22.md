@@ -1,3 +1,4 @@
+#aws #share_everything 
 # Background
 ---
 - Great success of the practice of dynamodb
