@@ -9,10 +9,10 @@ Time Cost: min
 
 
 # Motivation
-## Gap
+## Gap & Challenges
 
 
-## Inspiration
+## Opportunities & Inspiration
 
 
 
