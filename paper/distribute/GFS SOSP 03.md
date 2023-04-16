@@ -142,3 +142,4 @@ It's a relaxed consistency model.
 
 # Reference
 * [notes](https://spongecaptain.cool/post/paper/googlefilesystem/#35-consistency-model-%E4%B8%80%E8%87%B4%E6%80%A7%E6%A8%A1%E5%9E%8B)
+* [解读Google分布式文件系统GFS（合集）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fT411c7y6/?spm_id_from=333.999.0.0&vd_source=7781261991941d597260a7d004b83d25)
