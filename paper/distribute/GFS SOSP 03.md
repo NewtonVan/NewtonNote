@@ -114,6 +114,7 @@ For faster recovering(replaying the persistent log), log has to be small.
 ## Consistency model
 It's a relaxed consistency model.
 * GFS
+
 | State              | Write                    |             Record Append              |
 | ------------------ | ------------------------ |:--------------------------------------:|
 | Serial success     | defined                  | defined interspersed with inconsistent |
