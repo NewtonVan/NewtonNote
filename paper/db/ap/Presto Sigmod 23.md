@@ -131,3 +131,4 @@ Intermediate result or some in memory data swap with temporary storage.
 
 
 # Reference
+* [过去十年，Presto都经历了什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/624856140)
