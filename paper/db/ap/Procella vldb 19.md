@@ -47,7 +47,7 @@ Time Cost: min
 * Cache data and improve memory structure efficiency.
 
 ## Architecture
-![[../../ref/Pasted image 20231203011126.png]]
+![[../../ref/pics/Pasted image 20231203011126.png]]
 
 ### Data
 * Using light weight secondary structures.(zone map, bloom filters)
