@@ -4,25 +4,21 @@ Time Cost: min
 
 ## Current Defects
 
-
 # Requirements
 
-
 # Motivation
-## Gap
+## Gap 
 
+## Opportunities & Inspiration
 
-## Inspiration
-
-
+## Challenges
 
 # Design
-
 ## Core idea
-
 
 ## Architecture
 
+## Recovery
 
 # Experiment
 ## Design Intention
